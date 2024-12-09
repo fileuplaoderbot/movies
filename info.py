@@ -21,8 +21,8 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '7574798369:AAFdxLM4a5rXXO34GtZyyorwGPmlN3y
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6069621485').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Badmosh_bhai") # ADMIN USERNAME
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002489194899'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+wkLciI8DXmVlNTU9')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002409173444').split()]
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+R54bDH-QJqQ2YTM1')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002145175126').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://moviedb:moviedb@moviedb.ni772.mongodb.net/?retryWrites=true&w=majority&appName=moviedb")

@@ -259,7 +259,7 @@ User - {}"""
     
 <blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
- <code></code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+ <code>There is No Need For UPI Id Use QR Code If QR code is Not Working Then DM me @Badmosh_Bhai</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 

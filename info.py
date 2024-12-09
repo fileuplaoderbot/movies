@@ -18,15 +18,15 @@ API_HASH = environ.get('API_HASH', '69ba051f43cff367bf569bd54eb277a7')
 BOT_TOKEN = environ.get('BOT_TOKEN', '7574798369:AAFdxLM4a5rXXO34GtZyyorwGPmlN3y4zCs')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5665677555').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6069621485').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Badmosh_bhai") # ADMIN USERNAME
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002320799080'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002489194899'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+wkLciI8DXmVlNTU9')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002409173444').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://MovieHorn1:MovieHorn1@moviehorn.ni772.mongodb.net/?retryWrites=true&w=majority&appName=MovieHorn")
-DATABASE_NAME = environ.get('DATABASE_NAME', "moviehorn")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://moviedb:moviedb@moviedb.ni772.mongodb.net/?retryWrites=true&w=majority&appName=moviedb")
+DATABASE_NAME = environ.get('DATABASE_NAME', "moviedb")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
